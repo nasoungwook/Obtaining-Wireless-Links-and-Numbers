@@ -1,6 +1,8 @@
 # Obtaining-Wireless-Links-and-Numbers
-무선 링크 및 개수 구하기
- 구현한 클레스 설명
+무선 링크 및 개수 구하기;
+
+
+■  구현한 클레스 설명
  - Node 클래스는 노드의 좌표 x,y를 맴버변수로 한다. 
     - 좌표는 100개를 저장하기 위해서 배열로 100를 만든다.
     1. void node_numset(int num)
