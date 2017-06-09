@@ -1,5 +1,5 @@
 # Obtaining-Wireless-Links-and-Numbers
-무선 링크 및 개수 구하기;
+무선 링크 및 개수 구하기
 
 
 ■  구현한 클레스 설명
@@ -18,3 +18,4 @@
    - 노드의 개수를 입력받아서 함수로 넘겨준다.
 
 ■ 실행화면
+![01](http://postfiles10.naver.net/MjAxNzAxMTlfMTAx/MDAxNDg0ODA4NzYzOTQx.Tj3os-I8lxnWIYF2D_rYs2x6d9VuOFRo_oIsZfsZ_58g.yClqFNC7gtjxRfFfo-rdFUw1spl6XB0hgyQi95EYCncg.PNG.wsn026/noname01.png?type=w966)
